@@ -31,4 +31,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 npm install --save-dev @angular-devkit/build-angular
 
 ## ScreenShots
+<img title="a title" alt="Alt text" src="assets/images/HotelApp.png">
+
 
