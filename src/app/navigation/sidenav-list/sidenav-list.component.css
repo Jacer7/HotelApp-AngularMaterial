@@ -1,0 +1,13 @@
+.sidenav-list span {
+    padding-left: 8px;
+}
+
+.mat-list-base .mat-list-item, .mat-list-base .mat-list-option {
+    display: block;
+    font-weight: normal;
+    font-size: medium;
+    height: 48px;
+    -webkit-tap-highlight-color: transparent;
+    width: 100%;
+    padding: 0;
+}

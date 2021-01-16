@@ -1,0 +1,13 @@
+.toolbar-flex {
+    flex: 1 0.5 auto;
+}
+
+nav a.active {
+    color: #e3e7e6;
+}
+
+.mat-tab-link {
+    font-size: 17px;
+    font-family: 'Rubik';
+    font-weight: 400;
+}
