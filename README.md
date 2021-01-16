@@ -37,7 +37,7 @@ npm install --save-dev @angular-devkit/build-angular
  # 2
 ![Alt text](https://github.com/Jacer7/HotelApp-AngularMaterial/blob/master/src/assets/images/HotelApp_sidebar.PNG?raw=true "Sidebar")
 
-#3
+# 3
 ![Alt text](https://github.com/Jacer7/HotelApp-AngularMaterial/blob/master/src/assets/images/multiplecards.png?raw=true "Cards")
 
 
