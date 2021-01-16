@@ -32,10 +32,14 @@ npm install --save-dev @angular-devkit/build-angular
 
 ## ScreenShots 
 # 1
-![Alt text](https://github.com/Jacer7/HotelApp-AngularMaterial/blob/master/src/assets/images/HotelApp.PNG?raw=true "Title")
+![Alt text](https://github.com/Jacer7/HotelApp-AngularMaterial/blob/master/src/assets/images/HotelApp.PNG?raw=true "Resort")
 
  # 2
-![Alt text](https://github.com/Jacer7/HotelApp-AngularMaterial/blob/master/src/assets/images/HotelApp_sidebar.PNG?raw=true "Title")
+![Alt text](https://github.com/Jacer7/HotelApp-AngularMaterial/blob/master/src/assets/images/HotelApp_sidebar.PNG?raw=true "Sidebar")
+
+#3
+![Alt text](https://github.com/Jacer7/HotelApp-AngularMaterial/blob/master/src/assets/images/multiplecards.PNG?raw=true "Cards")
+
 
 
 
