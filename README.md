@@ -30,9 +30,12 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 npm install --save-dev @angular-devkit/build-angular
 
-## ScreenShots
+## ScreenShots 
+#1
 ![Alt text](https://github.com/Jacer7/HotelApp-AngularMaterial/blob/master/src/assets/images/HotelApp.PNG?raw=true "Title")
 
+ #2
+![Alt text](https://github.com/Jacer7/HotelApp-AngularMaterial/blob/master/src/assets/images/HotelApp_sidebar.PNG?raw=true "Title")
 
 
 
